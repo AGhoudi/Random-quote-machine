@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+
+.text, .author {
+    font-family: 'Galada', cursive;
+    font-size: 35px;
+    color: #ddd184;
+    text-shadow: 3px 3px #000;  
+}
+
+.text {
+    min-height: auto;
+}

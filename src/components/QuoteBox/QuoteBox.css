@@ -1,0 +1,16 @@
+.quoteBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    background-color: #855b9d;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding : 30px;
+    margin: 30px auto;
+    min-width: 70vw;
+    max-width: 70vw;
+    height: auto;
+}
