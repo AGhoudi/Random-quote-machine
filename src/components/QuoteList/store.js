@@ -84,15 +84,15 @@ export const quotes = [
 
 export const colors = [
     
-    "#BA59FF",
-    "F770FF",
-    "#FF87B1",
+    "#8e5bb3",
+    "#c958cf",
+    "#f79dbc",
     "#E26FE8",
-    "#9E28FF",
-    "#FF7A81",
-    "#E86F88",
-    "#FF87B1",
+    "#903ad6",
+    "#e75e65",
+    "#d47e90",
+    "#f76396",
     "#E86FAC",
-    "#FF48C0"
+    "#ff8ed7"
 
 ];

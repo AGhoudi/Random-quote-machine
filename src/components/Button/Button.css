@@ -1,0 +1,24 @@
+.share {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    font-size: 23px;
+    text-shadow: 1px 1px red;
+    color: #6C3E85;
+    background-color: #fff;
+    border: none;
+    width: 180px;
+    height: 45px;
+    font-family: 'Fondamento', cursive;
+    margin: 30px auto;
+    text-decoration: none;
+}
+
+#tweet-quote {
+    text-decoration: none;  
+}
+
+.fa-twitter {
+    margin-right: 10px;
+}

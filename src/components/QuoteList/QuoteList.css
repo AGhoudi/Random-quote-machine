@@ -1,12 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
 
 .text, .author {
     font-family: 'Galada', cursive;
     font-size: 35px;
-    color: #ddd184;
+    color: #fff;
     text-shadow: 3px 3px #000;  
 }
 
 .text {
     min-height: auto;
+}
+
+.contentBox {
+    min-height: 330px;
+}
+
+.quoteButton {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.nextQuote {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    font-size: 23px;
+    text-shadow: 1px 1px red;
+    color: #6C3E85;
+    background-color: #fff;
+    border: none;
+    width: 180px;
+    height: 45px;
+    font-family: 'Fondamento', cursive;
 }
