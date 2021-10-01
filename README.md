@@ -1,6 +1,6 @@
 #React Random Quote Machine
 
-I have made a react random machine for a project in Freecodecamp here:
+I have made a react 
 
 
 
