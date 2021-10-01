@@ -3,7 +3,7 @@
 I have made a react random machine for a project in Freecodecamp here:
 https://codepen.io/Link1986/pen/mddQPxX
 
-So I have decided then to try the same with create-react-app
+So I have decided then to 
 
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
