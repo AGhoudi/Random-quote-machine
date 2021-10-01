@@ -1,6 +1,5 @@
 #React Random Quote Machine
 
-I have made a react 
 
 
 
